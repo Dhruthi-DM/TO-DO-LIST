@@ -6,7 +6,7 @@ As a Part of continuing to learn and make tiny projects and leveling up..here is
 
 📝 To-Do List App
 
-This project is a To-Do List Application 🛠️ designed to help users efficiently manage their daily tasks. It was built as part of my learning journey 🌱 in web development, showcasing my progress in HTML, CSS, and JavaScript.
+This project is a To-Do List Application 🛠️ designed to help users efficiently manage their daily tasks. It is built as part of my learning journey 🌱 in web development, showcasing my progress in HTML, CSS, and JavaScript.
 
 ✨ Features:
 
