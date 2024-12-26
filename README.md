@@ -1,6 +1,8 @@
 # TO-DO-LIST
 
-Simple TO-DO LIST using HTML,CSS,JavaScript
+Simple TO-DO LIST using HTML, CSS, JavaScript
+
+As a Part of continuing to learn and make tiny projects and leveling up..here is 
 
 📝 To-Do List App
 
